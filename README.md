@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - <br>
-Wlcome you my github Account.
+Welcome you my github Account.
 - 
 
 <!---
